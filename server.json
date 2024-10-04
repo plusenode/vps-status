@@ -1,0 +1,22 @@
+{
+    "VPS-1": {
+        "ip": "YOUR IP",
+        "port": 22,
+        "enabled": true,
+        "channel": 1230458953486303232,
+        "credentials": {
+            "username": "root",
+            "password": "password"
+        }
+    },
+    "VPS-2": {
+        "ip": "YOUR IP",
+        "port": 22,
+        "enabled": true,
+        "channel": 1230459064262328442,
+        "credentials": {
+            "username": "root",
+            "password": "password"
+        }
+    }
+}
